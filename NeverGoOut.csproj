@@ -107,6 +107,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="DarkBlue.css" />
+    <Content Include="LightBlue.css" />
+    <Content Include="LightBlue.html" />
     <Content Include="manysonnets.html" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />

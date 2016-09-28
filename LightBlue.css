@@ -1,0 +1,20 @@
+﻿body 
+    {
+        background-color:aqua;
+    }
+
+ul
+    {
+        width:100px;
+        text-align:center;
+        list-style:none;
+    
+        margin:auto;
+    }
+li::first-letter
+    {
+        font-size:200%;
+        
+        list-style: none;
+    }
+
