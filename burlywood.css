@@ -1,0 +1,54 @@
+﻿h1  {
+        font-size:32px;
+        border-bottom-style:dotted;
+        font-style:italic;
+        margin:0px 0px 0px 0px;
+        text-align:center;
+        font-weight:900;
+        font-family:Arial;
+    }
+
+body 
+    {
+        background-color: burlywood;
+        
+        border-style:dotted;
+        background-color: white;
+        width:500px;
+        margin:auto;
+
+        text-align: center;
+   
+        
+        
+    }
+
+p   {
+        font-size:small;
+        text-align:center;
+    }
+
+ul  {
+        
+        width:500px;
+        text-align:center;
+        list-style:none;
+        font-style:italic;
+        list-style-type:none;
+        padding:0;
+        
+    }
+html
+    {
+        background-color:burlywood;
+        position:center;
+    }
+li  {
+    }
+li::first-letter
+    {
+        
+        font-style:italic;
+        font-weight:700;
+        list-style: none;
+    }
